@@ -19,14 +19,14 @@ Dataset Iris terdiri dari 150 sampel bunga Iris dengan 4 fitur pengukuran morfol
 
 ```
 KlasifikasiSpesiesIris.ipynb   # Notebook utama
-README.md                       # Dokumentasi proyek
+README.md                      # Dokumentasi proyek
 ```
 
 ---
 
 ## Dataset
 
-Dataset yang digunakan: `Iris.csv`
+Dataset yang digunakan: [Iris Species](https://www.kaggle.com/datasets/uciml/iris) — tersedia di Kaggle (`Iris.csv`)
 
 | Fitur          | Deskripsi                     |
 |----------------|-------------------------------|
